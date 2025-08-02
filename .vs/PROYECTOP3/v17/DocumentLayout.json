@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7277A608-EB09-4752-8ED5-AD52C6160DF4}|PROYECTOP3\\PROYECTOP3.csproj|c:\\users\\alexb\\source\\repos\\proyectop3\\proyectop3\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7277A608-EB09-4752-8ED5-AD52C6160DF4}|PROYECTOP3\\PROYECTOP3.csproj|solutionrelative:proyectop3\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7277A608-EB09-4752-8ED5-AD52C6160DF4}|PROYECTOP3\\PROYECTOP3.csproj|c:\\users\\alexb\\source\\repos\\proyectop3\\proyectop3\\services\\usuarioserviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7277A608-EB09-4752-8ED5-AD52C6160DF4}|PROYECTOP3\\PROYECTOP3.csproj|solutionrelative:proyectop3\\services\\usuarioserviceclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7277A608-EB09-4752-8ED5-AD52C6160DF4}|PROYECTOP3\\PROYECTOP3.csproj|c:\\users\\alexb\\source\\repos\\proyectop3\\proyectop3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7277A608-EB09-4752-8ED5-AD52C6160DF4}|PROYECTOP3\\PROYECTOP3.csproj|solutionrelative:proyectop3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7277A608-EB09-4752-8ED5-AD52C6160DF4}|PROYECTOP3\\PROYECTOP3.csproj|c:\\users\\alexb\\source\\repos\\proyectop3\\proyectop3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7277A608-EB09-4752-8ED5-AD52C6160DF4}|PROYECTOP3\\PROYECTOP3.csproj|solutionrelative:proyectop3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7277A608-EB09-4752-8ED5-AD52C6160DF4}|PROYECTOP3\\PROYECTOP3.csproj|c:\\users\\alexb\\source\\repos\\proyectop3\\proyectop3\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7277A608-EB09-4752-8ED5-AD52C6160DF4}|PROYECTOP3\\PROYECTOP3.csproj|solutionrelative:proyectop3\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7277A608-EB09-4752-8ED5-AD52C6160DF4}|PROYECTOP3\\PROYECTOP3.csproj|c:\\users\\alexb\\source\\repos\\proyectop3\\proyectop3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7277A608-EB09-4752-8ED5-AD52C6160DF4}|PROYECTOP3\\PROYECTOP3.csproj|solutionrelative:proyectop3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7277A608-EB09-4752-8ED5-AD52C6160DF4}|PROYECTOP3\\PROYECTOP3.csproj|c:\\users\\alexb\\source\\repos\\proyectop3\\proyectop3\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7277A608-EB09-4752-8ED5-AD52C6160DF4}|PROYECTOP3\\PROYECTOP3.csproj|solutionrelative:proyectop3\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7277A608-EB09-4752-8ED5-AD52C6160DF4}|PROYECTOP3\\PROYECTOP3.csproj|c:\\users\\alexb\\source\\repos\\proyectop3\\proyectop3\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7277A608-EB09-4752-8ED5-AD52C6160DF4}|PROYECTOP3\\PROYECTOP3.csproj|solutionrelative:proyectop3\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\PROYECTOP3\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PROYECTOP3\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\PROYECTOP3\\appsettings.Development.json",
+              "RelativeToolTip": "PROYECTOP3\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T01:36:10.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\PROYECTOP3\\Program.cs",
+              "RelativeDocumentMoniker": "PROYECTOP3\\Program.cs",
+              "ToolTip": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\PROYECTOP3\\Program.cs",
+              "RelativeToolTip": "PROYECTOP3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T01:28:28.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioServiceClass.cs",
+              "DocumentMoniker": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\PROYECTOP3\\Services\\UsuarioServiceClass.cs",
+              "RelativeDocumentMoniker": "PROYECTOP3\\Services\\UsuarioServiceClass.cs",
+              "ToolTip": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\PROYECTOP3\\Services\\UsuarioServiceClass.cs",
+              "RelativeToolTip": "PROYECTOP3\\Services\\UsuarioServiceClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T01:22:16.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\PROYECTOP3\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "PROYECTOP3\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\PROYECTOP3\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "PROYECTOP3\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T01:19:00.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\PROYECTOP3\\appsettings.json",
+              "RelativeDocumentMoniker": "PROYECTOP3\\appsettings.json",
+              "ToolTip": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\PROYECTOP3\\appsettings.json",
+              "RelativeToolTip": "PROYECTOP3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T00:28:54.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\PROYECTOP3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PROYECTOP3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\PROYECTOP3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PROYECTOP3\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T00:28:40.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\PROYECTOP3\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "PROYECTOP3\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\PROYECTOP3\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "PROYECTOP3\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:27:51.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\PROYECTOP3\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PROYECTOP3\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\alexb\\source\\repos\\PROYECTOP3\\PROYECTOP3\\Models\\Usuario.cs",
+              "RelativeToolTip": "PROYECTOP3\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T00:26:58.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
