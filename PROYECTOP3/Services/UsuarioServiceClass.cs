@@ -41,6 +41,7 @@ namespace PROYECTOP3.Services
 
             public Usuario? Actualizar(int id, Usuario usuario)
             {
+                // // Aquí se actualiza el usuario
                 var usuarios = LeerUsuarios();
                 var index = usuarios.FindIndex(u => u.Id == id);
                 if (index == -1) return null;
